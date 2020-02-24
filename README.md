@@ -1,6 +1,6 @@
 # What I Learned in Week 5
 
-## Week 4 was about arrays.  I learned to declare and modify arrays using array syntax and array methods.
+## Week 5 was about arrays.  I learned to declare and modify arrays using array syntax and array methods.
 
 ### Arrays
 Arrays are ordered lists in JavaScript.  Each array element is associated with its array index, which is numerical and starts with `0`.
